@@ -1,7 +1,7 @@
 # Olá, eu sou o Manuel! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelbinga837-hub&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Manuel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelbinga837-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
 ---
@@ -33,17 +33,19 @@ Estou iniciando minha jornada no mundo da programação e do desenvolvimento web
 
 ## 📁 Projetos em Destaque
 
-* 🎮 **[Quizgame](http://manuelbinga837-hub.github.io/My-gitProjects/Quizgame-project)** Um jogo interativo de perguntas e respostas desenvolvido para a web.  
+* 🎮 **Quizgame**  
+  Um jogo interativo de perguntas e respostas desenvolvido para a web.  
   *Tecnologias: HTML5, CSS3, JavaScript e VS Code.*
 
-* 🧮 **[Calculadora Básica](http://manuelbinga837-hub.github.io/My-gitProjects/calculadora-project)** Uma calculadora funcional para operações matemáticas simples direto no navegador.  
+* 🧮 **Calculadora Básica**  
+  Uma calculadora funcional para operações matemáticas simples direto no navegador.  
   *Tecnologias: HTML5, CSS3, JavaScript e VS Code.*
 
 ---
 
 ## 📫 Como me encontrar
 
-Se quiser conversar sobre tecnologia ou fazer um networking, escolha um dos canais abaixo:
+Se quiser conversar sobre tecnologia ou fazer um networking:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/devbinga)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelbinga837m@gmail.com)
@@ -51,4 +53,5 @@ Se quiser conversar sobre tecnologia ou fazer um networking, escolha um dos cana
 > 📩 **E-mail alternativo:** bingamanuel9@gmail.com
 
 ---
+
 <p align="center">Feito com 💻 e ☕ por Manuel Binga</p>
