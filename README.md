@@ -33,12 +33,10 @@ Estou iniciando minha jornada no mundo da programação e do desenvolvimento web
 
 ## 📁 Projetos em Destaque
 
-* 🎮 **Quizgame**  
-  Um jogo interativo de perguntas e respostas desenvolvido para a web.  
+* 🎮 **[Quizgame](http://manuelbinga837-hub.github.io/My-gitProjects/Quizgame-project)** Um jogo interativo de perguntas e respostas desenvolvido para a web.  
   *Tecnologias: HTML5, CSS3, JavaScript e VS Code.*
 
-* 🧮 **Calculadora Básica**  
-  Uma calculadora funcional para operações matemáticas simples direto no navegador.  
+* 🧮 **[Calculadora Básica](http://manuelbinga837-hub.github.io/My-gitProjects/calculadora-project)** Uma calculadora funcional para operações matemáticas simples direto no navegador.  
   *Tecnologias: HTML5, CSS3, JavaScript e VS Code.*
 
 ---
